@@ -1,1 +1,8 @@
-
+.program {
+    font-size: 40px;
+    font-family: "Times New Roman";
+}
+table, th, td {
+    border: 2px solid black;
+    border-collapse: collapse;
+}
