@@ -1,1 +1,41 @@
+.program {
+    font-size: 50px;
+    font-family: "Arial";
+}
+p{
+    font-size: 25px;
+}
+table, th, td {
+    border: 2px dashed blue;
+    border-collapse: collapse;
+    background-color: paleturquoise;
+    text-align: center;
+}
+img {
+    height: 100px;
+    width: 100px;
+}
 
+body#studioArt{
+    background-image: url("../pics/cartoon-artist-boy-vector-illustration-36211596.jpg");;
+}
+body#Economics{
+    background-color: lightyellow;
+}
+body#Politics{
+    background-color:lightyellow;
+}
+body#computerScience{
+    background-color: lightyellow;
+}
+body#Mathematics{
+    background-color: lightyellow;
+}
+body{
+    font-size: 20px;
+    background-color: lightcyan
+}
+ul{
+    border: 2px black solid;
+    background-color:lightblue
+}
